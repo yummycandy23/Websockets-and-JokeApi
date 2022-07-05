@@ -1,2 +1,2 @@
 # Websockets-and-JokeApi
-FE Interfacing and Programming 2 - IULI
+FE Interfacing and Data Communication 2 - IULI
